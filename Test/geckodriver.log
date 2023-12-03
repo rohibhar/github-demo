@@ -1,0 +1,979 @@
+1701368125975	geckodriver	INFO	Listening on 127.0.0.1:57415
+1701368128812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57416" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofile5dPXfB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701368129891	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701368130919	Marionette	INFO	Listening on port 57425
+Read port: 57425
+WebDriver BiDi listening on ws://127.0.0.1:57416
+1701368131193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+DevTools listening on ws://127.0.0.1:57416/devtools/browser/d0105bd8-e913-4ca3-a8e1-b25498ec2e89
+JavaScript error: moz-extension://c6e649a7-d702-4235-90c2-929dc0f155b6/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701368159948	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1701406816256	geckodriver	INFO	Listening on 127.0.0.1:56200
+1701406819075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileJzqqaa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701406820130	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701406820668	Marionette	INFO	Listening on port 56209
+Read port: 56209
+WebDriver BiDi listening on ws://127.0.0.1:56201
+1701406820828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56201/devtools/browser/388bba4b-b509-436f-8c42-cc3b03c6d15e
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://3693be66-a723-4b8b-93dd-c698a34481e7/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701406840422	Marionette	INFO	Stopped listening on port 56209
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 650: TypeError: context.contentWindow is null
+1701407379779	geckodriver	INFO	Listening on 127.0.0.1:54889
+1701407382884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54890" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileekelip"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701407383308	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701407383793	Marionette	INFO	Listening on port 54897
+WebDriver BiDi listening on ws://127.0.0.1:54890
+Read port: 54897
+1701407384087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54890/devtools/browser/d05aa283-3b22-4e13-87ce-cc2b5f37a590
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://f747a646-7d46-4a9d-bf39-df30954090a0/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701407403722	Marionette	INFO	Stopped listening on port 54897
+JavaScript warning: moz-extension://f747a646-7d46-4a9d-bf39-df30954090a0/extensions.js, line 61: Script terminated by timeout at:
+updatePerformanceObject@moz-extension://f747a646-7d46-4a9d-bf39-df30954090a0/extensions.js:61:51188
+updateCurrentContext@moz-extension://f747a646-7d46-4a9d-bf39-df30954090a0/extensions.js:61:48615
+updateContext@moz-extension://f747a646-7d46-4a9d-bf39-df30954090a0/extensions.js:61:50900
+handleContextChangeEvent@moz-extension://f747a646-7d46-4a9d-bf39-df30954090a0/extensions.js:61:43511
+storeLogEvent@moz-extension://f747a646-7d46-4a9d-bf39-df30954090a0/extensions.js:61:42589
+storeLogEvent@moz-extension://f747a646-7d46-4a9d-bf39-df30954090a0/extensions.js:1:66932
+init/<@moz-extension://f747a646-7d46-4a9d-bf39-df30954090a0/extensions.js:71:95893
+o/</<@moz-extension://f747a646-7d46-4a9d-bf39-df30954090a0/extensions.js:1:42704
+o/<@moz-extension://f747a646-7d46-4a9d-bf39-df30954090a0/extensions.js:1:42676
+
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 650: TypeError: context.contentWindow is null
+Dynamically enable window occlusion 1
+1701410183346	geckodriver	INFO	Listening on 127.0.0.1:53261
+1701410186219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53262" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilePlXYEd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701410187127	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701410187692	Marionette	INFO	Listening on port 53270
+Read port: 53270
+WebDriver BiDi listening on ws://127.0.0.1:53262
+1701410187919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 581: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+DevTools listening on ws://127.0.0.1:53262/devtools/browser/d27797b0-55eb-4a78-9207-cdb5c7076f19
+JavaScript error: moz-extension://02fb4d6d-8b1f-4e0b-8f37-6ea3a761cab3/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701410209810	Marionette	INFO	Stopped listening on port 53270
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 650: TypeError: context.contentWindow is null
+1701410213912	geckodriver	INFO	Listening on 127.0.0.1:53352
+1701410216969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53353" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileRcZ81f"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701410217524	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701410218132	Marionette	INFO	Listening on port 53362
+Read port: 53362
+WebDriver BiDi listening on ws://127.0.0.1:53353
+1701410218288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53353/devtools/browser/3e926ebe-fd84-4708-a3e4-cff6615c5d08
+JavaScript error: moz-extension://c8e06e08-1ae8-473e-921b-65e875bc0d65/contentTrackerLoader.js, line 18: SecurityError: The operation is insecure.
+JavaScript warning: moz-extension://c8e06e08-1ae8-473e-921b-65e875bc0d65/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+g/<@moz-extension://c8e06e08-1ae8-473e-921b-65e875bc0d65/contentTrackerLoader.js:18:30118
+r@moz-extension://c8e06e08-1ae8-473e-921b-65e875bc0d65/contentTrackerLoader.js:18:29621
+
+JavaScript error: moz-extension://c8e06e08-1ae8-473e-921b-65e875bc0d65/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701410239121	Marionette	INFO	Stopped listening on port 53362
+JavaScript warning: moz-extension://c8e06e08-1ae8-473e-921b-65e875bc0d65/extensions.js, line 61: Script terminated by timeout at:
+collectReadyContexts@moz-extension://c8e06e08-1ae8-473e-921b-65e875bc0d65/extensions.js:61:50032
+updateContext@moz-extension://c8e06e08-1ae8-473e-921b-65e875bc0d65/extensions.js:61:51054
+handleContextChangeEvent@moz-extension://c8e06e08-1ae8-473e-921b-65e875bc0d65/extensions.js:61:43511
+storeLogEvent@moz-extension://c8e06e08-1ae8-473e-921b-65e875bc0d65/extensions.js:61:42589
+storeLogEvent@moz-extension://c8e06e08-1ae8-473e-921b-65e875bc0d65/extensions.js:1:66932
+init/<@moz-extension://c8e06e08-1ae8-473e-921b-65e875bc0d65/extensions.js:71:95893
+o/</<@moz-extension://c8e06e08-1ae8-473e-921b-65e875bc0d65/extensions.js:1:42704
+o/<@moz-extension://c8e06e08-1ae8-473e-921b-65e875bc0d65/extensions.js:1:42676
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 650: TypeError: context.contentWindow is null
+1701414049854	geckodriver	INFO	Listening on 127.0.0.1:58000
+1701414052666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58001" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilelxGkkw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701414053397	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701414053924	Marionette	INFO	Listening on port 58008
+Read port: 58008
+WebDriver BiDi listening on ws://127.0.0.1:58001
+1701414054096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58001/devtools/browser/ec4f1df2-4c15-4e50-b56d-829b26326fe9
+JavaScript error: moz-extension://9fab7ff6-e4ea-48a5-9cd0-05ae18bc779a/contentTrackerLoader.js, line 18: SecurityError: The operation is insecure.
+JavaScript warning: moz-extension://9fab7ff6-e4ea-48a5-9cd0-05ae18bc779a/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+g/<@moz-extension://9fab7ff6-e4ea-48a5-9cd0-05ae18bc779a/contentTrackerLoader.js:18:30118
+r@moz-extension://9fab7ff6-e4ea-48a5-9cd0-05ae18bc779a/contentTrackerLoader.js:18:29621
+
+1701414078700	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1701414083541	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701416736095	geckodriver	INFO	Listening on 127.0.0.1:52629
+1701416738954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52630" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilenwbLUr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701416739700	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701416740261	Marionette	INFO	Listening on port 52639
+Read port: 52639
+WebDriver BiDi listening on ws://127.0.0.1:52630
+1701416740417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52630/devtools/browser/dfe24423-0c47-4b76-aaba-e88df870225d
+1701416939426	geckodriver	INFO	Listening on 127.0.0.1:64927
+1701416942430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64928" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileQ1xORa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701416942998	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701416943547	Marionette	INFO	Listening on port 64936
+Read port: 64936
+WebDriver BiDi listening on ws://127.0.0.1:64928
+1701416943750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+DevTools listening on ws://127.0.0.1:64928/devtools/browser/b68a5898-6e50-423c-9799-cf26caf62128
+1701416973022	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701418662338	Marionette	INFO	Stopped listening on port 64936
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "65073" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilevqmXAJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701417036708	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701417037240	Marionette	INFO	Listening on port 65087
+Read port: 65087
+WebDriver BiDi listening on ws://127.0.0.1:65073
+1701417037410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65073/devtools/browser/d851c18a-1c29-4204-bb95-ceef7afe3a28
+1701417066738	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: moz-extension://3f5b71a4-44c0-44ba-8723-1bb713556e4f/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1701417103512	Marionette	INFO	Stopped listening on port 65087
+Dynamically enable window occlusion 1
+1701417238725	geckodriver	INFO	Listening on 127.0.0.1:65262
+1701417241491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65263" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofile3VsYPS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701417242200	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701417242707	Marionette	INFO	Listening on port 65275
+WebDriver BiDi listening on ws://127.0.0.1:65263
+Read port: 65275
+1701417242948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65263/devtools/browser/3dc275b1-cf2e-43cd-a254-c3985135c0ff
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://c3b6e44e-a13a-4fb5-b31c-dfdb6f608b8c/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://c3b6e44e-a13a-4fb5-b31c-dfdb6f608b8c/contentTrackerLoader.js, line 18: TypeError: t is undefined
+1701417272415	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+SourceActor threw an exception: Error: Failed to fetch https://10.150.151.125/CommonAuth/web/admin/user/login. Code 2153398258.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 596, column: 16
+console.error: (new Error("Failed to fetch https://10.150.151.125/CommonAuth/web/admin/user/login. Code 2153398258.", "resource://devtools/shared/DevToolsUtils.js", 596))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: Error: Failed to fetch https://10.150.151.125/CommonAuth/web/admin/user/login. Code 2153398258.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1701418657929	Marionette	INFO	Stopped listening on port 65275
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+l\\Temp\\rust_mozprofileEiyfKO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701417317110	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701417317604	Marionette	INFO	Listening on port 65375
+Read port: 65375
+WebDriver BiDi listening on ws://127.0.0.1:65367
+1701417317752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65367/devtools/browser/dd7f074c-6765-477b-bdb8-bff8174bb8cd
+JavaScript error: moz-extension://18e061ae-4965-4871-8d3b-b3e91aad552b/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.error: ({})
+1701417347141	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701434918838	Marionette	INFO	Stopped listening on port 65375
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "60469" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilefX7cGf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701417874751	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701417875343	Marionette	INFO	Listening on port 60486
+WebDriver BiDi listening on ws://127.0.0.1:60469
+Read port: 60486
+1701417875631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60469/devtools/browser/2ff197fd-573e-43ec-a1ec-b205fbc8782f
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://4d3409f3-9c7d-4b5c-b101-4542e7713ddb/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701417904825	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701417973392	Marionette	INFO	Stopped listening on port 60486
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1701515341511	geckodriver	INFO	Listening on 127.0.0.1:60253
+1701515344514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60254" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileqRJcfi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701515344960	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701515345623	Marionette	INFO	Listening on port 60264
+WebDriver BiDi listening on ws://127.0.0.1:60254
+Read port: 60264
+1701515345905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+DevTools listening on ws://127.0.0.1:60254/devtools/browser/7698f279-6b2d-4a94-bcde-964fd756d3d7
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: TypeError: t is undefined
+1701515375008	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: TypeError: t is undefined
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'
+JavaScript warning: https://www.youtube.com/embed/bq9-LZdEoWU?controls=1&rel=0&playsinline=0&modestbranding=0&autoplay=0&enablejsapi=1&origin=https%3A%2F%2Fwww.qedgetech.com&widgetid=1 line 853 > injectedScript line 2 > eval line 5501 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:10737418241"
+console.error: "Unable to find target with innerWindowId:10737418241"
+console.error: "Unable to find target with innerWindowId:10737418241"
+console.error: "Unable to find target with innerWindowId:10737418241"
+JavaScript warning: https://www.youtube.com/embed/f13jOV05Iu0?controls=1&rel=0&playsinline=0&modestbranding=0&autoplay=0&enablejsapi=1&origin=https%3A%2F%2Fwww.qedgetech.com&widgetid=3 line 853 > injectedScript line 2 > eval line 7816 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:10737418243"
+JavaScript warning: https://www.google.com/js/th/Cz7e-VR341EnRw5g1wAl9brpVe2wOP5KsPJPm-1eumg.js line 2 > eval line 1975 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:10737418243"
+console.error: "Unable to find target with innerWindowId:10737418243"
+console.error: "Unable to find target with innerWindowId:10737418243"
+console.error: "Unable to find target with innerWindowId:8589934593"
+JavaScript warning: https://www.google.com/js/th/Cz7e-VR341EnRw5g1wAl9brpVe2wOP5KsPJPm-1eumg.js line 2 > eval line 350 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:10737418242"
+console.error: "Unable to find target with innerWindowId:10737418242"
+console.error: "Unable to find target with innerWindowId:10737418242"
+console.error: "Unable to find target with innerWindowId:10737418242"
+console.error: "Unable to find target with innerWindowId:10737418244"
+console.error: "Unable to find target with innerWindowId:10737418244"
+console.error: "Unable to find target with innerWindowId:10737418244"
+console.error: "Unable to find target with innerWindowId:10737418244"
+JavaScript warning: https://www.google.com/js/th/Cz7e-VR341EnRw5g1wAl9brpVe2wOP5KsPJPm-1eumg.js line 2 > eval line 7483 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:10737418245"
+console.error: "Unable to find target with innerWindowId:10737418245"
+console.error: "Unable to find target with innerWindowId:10737418245"
+console.error: "Unable to find target with innerWindowId:10737418245"
+console.error: "Unable to find target with innerWindowId:8589934593"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901890/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:447:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901891/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:447:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901892/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:447:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901893/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:447:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901889/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901890/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901891/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901892/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901893/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901889/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Inspector destroyed while executing onReflow callback"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal12884901889/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:300:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+_getWalker@resource://devtools/client/fronts/inspector.js:84:30
+initialize@resource://devtools/client/fronts/inspector.js:73:12
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/server/actors/inspector/walker.js, line 209: TypeError: targetActor is null
+JavaScript warning: https://www.google.com/js/th/Cz7e-VR341EnRw5g1wAl9brpVe2wOP5KsPJPm-1eumg.js line 2 > eval line 5625 > eval line 1 > eval line 1 > eval, line 1: Script terminated by timeout at:
+b@https://www.google.com/js/th/Cz7e-VR341EnRw5g1wAl9brpVe2wOP5KsPJPm-1eumg.js line 2 > eval line 5625 > eval line 1 > eval line 1 > eval:1:24
+@https://www.google.com/js/th/Cz7e-VR341EnRw5g1wAl9brpVe2wOP5KsPJPm-1eumg.js line 2 > eval:5625:36473
+pb@https://www.google.com/js/th/Cz7e-VR341EnRw5g1wAl9brpVe2wOP5KsPJPm-1eumg.js line 2 > eval:5625:14456
+xe@https://www.google.com/js/th/Cz7e-VR341EnRw5g1wAl9brpVe2wOP5KsPJPm-1eumg.js line 2 > eval:5625:13437
+L@https://www.google.com/js/th/Cz7e-VR341EnRw5g1wAl9brpVe2wOP5KsPJPm-1eumg.js line 2 > eval:5625:8563
+AF@https://www.google.com/js/th/Cz7e-VR341EnRw5g1wAl9brpVe2wOP5KsPJPm-1eumg.js line 2 > eval line 5625 > eval line 1 > eval line 1 > eval:1:308
+@https://www.google.com/js/th/Cz7e-VR341EnRw5g1wAl9brpVe2wOP5KsPJPm-1eumg.js line 2 > eval:5625:35575
+gA@https://www.google.com/js/th/Cz7e-VR341EnRw5g1wAl9brpVe2wOP5KsPJPm-1eumg.js line 2 > eval:5625:9550
+qL.bYc_/<@https://www.google.com/js/th/Cz7e-VR341EnRw5g1wAl9brpVe2wOP5KsPJPm-1eumg.js line 2 > eval:5625:38306
+En.prototype.F_@https://www.youtube.com/s/player/31e0b6d9/player_ias.vflset/en_US/base.js:7955:153
+hI.prototype.L0@https://www.youtube.com/s/player/31e0b6d9/player_ias.vflset/en_US/base.js:9063:41
+g.k.invoke@https://www.youtube.com/s/player/31e0b6d9/player_ias.vflset/en_US/base.js:9054:64
+xLa@https://www.youtube.com/s/player/31e0b6d9/player_ias.vflset/en_US/base.js:4013:47
+g.BLa/a.c1a@https://www.youtube.com/s/player/31e0b6d9/player_ias.vflset/en_US/base.js:4019:276
+g.CLa@https://www.youtube.com/s/player/31e0b6d9/player_ias.vflset/en_US/base.js:4022:167
+g.k.CR@https://www.youtube.com/s/player/31e0b6d9/player_ias.vflset/en_US/base.js:12457:77
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/31e0b6d9/player_ias.vflset/en_US/base.js:12343:102
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/31e0b6d9/player_ias.vflset/en_US/base.js:10437:62
+aU/a.state.j[b]@https://www.youtube.com/s/player/31e0b6d9/player_ias.vflset/en_US/base.js:4805:53
+Ix/<@https://www.youtube.com/s/player/31e0b6d9/www-embed-player.vflset/www-embed-player.js:1836:107
+Vx@https://www.youtube.com/s/player/31e0b6d9/www-embed-player.vflset/www-embed-player.js:1876:46
+@https://www.youtube.com/s/player/31e0b6d9/www-embed-player.vflset/www-embed-player.js:1886:137
+kl/<@https://www.youtube.com/s/player/31e0b6d9/www-embed-player.vflset/www-embed-player.js:871:63
+
+JavaScript warning: https://www.youtube.com/embed/f13jOV05Iu0?controls=1&rel=0&playsinline=0&modestbranding=0&autoplay=0&enablejsapi=1&origin=https%3A%2F%2Fwww.qedgetech.com&widgetid=3 line 853 > injectedScript line 2 > eval line 3837 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/embed/f13jOV05Iu0?controls=1&rel=0&playsinline=0&modestbranding=0&autoplay=0&enablejsapi=1&origin=https%3A%2F%2Fwww.qedgetech.com&widgetid=5 line 853 > injectedScript line 2 > eval line 5888 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/Cz7e-VR341EnRw5g1wAl9brpVe2wOP5KsPJPm-1eumg.js line 2 > eval line 5725 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/Cz7e-VR341EnRw5g1wAl9brpVe2wOP5KsPJPm-1eumg.js line 2 > eval line 4783 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+r@moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js:18:145608
+
+JavaScript warning: https://www.google.com/js/th/Cz7e-VR341EnRw5g1wAl9brpVe2wOP5KsPJPm-1eumg.js line 2 > eval line 2713 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/Cz7e-VR341EnRw5g1wAl9brpVe2wOP5KsPJPm-1eumg.js line 2 > eval line 6205 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/Cz7e-VR341EnRw5g1wAl9brpVe2wOP5KsPJPm-1eumg.js line 2 > eval line 4969 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/embed/WypBenvTepo?controls=1&rel=0&playsinline=0&modestbranding=0&autoplay=0&enablejsapi=1&origin=https%3A%2F%2Fwww.qedgetech.com&widgetid=7 line 853 > injectedScript line 2 > eval line 4842 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/Cz7e-VR341EnRw5g1wAl9brpVe2wOP5KsPJPm-1eumg.js line 2 > eval line 397 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: NS_ERROR_NOT_INITIALIZED
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: NS_ERROR_NOT_INITIALIZED
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/commons.js, line 1: NS_ERROR_UNEXPECTED
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: NS_ERROR_NOT_INITIALIZED
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/commons.js, line 1: NS_ERROR_UNEXPECTED
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/commons.js, line 1: NS_ERROR_UNEXPECTED
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/commons.js, line 1: NS_ERROR_UNEXPECTED
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: moz-extension://6c03c177-38e8-4729-8888-41516262328c/commons.js, line 1: Script terminated by timeout at:
+verifyUrlForWhitelist/<@moz-extension://6c03c177-38e8-4729-8888-41516262328c/commons.js:1:18283
+verifyUrlForWhitelist@moz-extension://6c03c177-38e8-4729-8888-41516262328c/commons.js:1:18327
+d@moz-extension://6c03c177-38e8-4729-8888-41516262328c/commons.js:1:11975
+
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/commons.js, line 1: NS_ERROR_UNEXPECTED
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/commons.js, line 1: NS_ERROR_UNEXPECTED
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript warning: https://www.amazon.in/, line 2044: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=men+watch&crid=1M5LQRRQBX7JY&sprefix=men+watch%2Caps%2C217&ref=nb_sb_noss_1, line 13869: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript warning: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+g/<@moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js:18:30118
+r@moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js:18:29621
+
+JavaScript warning: https://www.amazon.in/s?k=Men+Watch&crid=I0D7L1X7V7MB&sprefix=men+watch%2Caps%2C233&ref=nb_sb_noss_1, line 13884: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: TypeError: t is undefined
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'moz-extension://6c03c177-38e8-4729-8888-41516262328c/config/config.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'file:///'
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+i/<@moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js:18:145709
+r@moz-extension://6c03c177-38e8-4729-8888-41516262328c/contentTrackerLoader.js:18:145516
+
+JavaScript warning: https://www.amazon.in/s?k=Men+Watch&crid=I0D7L1X7V7MB&sprefix=men+watch%2Caps%2C233&ref=nb_sb_noss_1, line 13829: Script terminated by timeout at:
+l@https://www.amazon.in/s?k=Men+Watch&crid=I0D7L1X7V7MB&sprefix=men+watch%2Caps%2C233&ref=nb_sb_noss_1:13829:262
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1701522645647	Marionette	INFO	Stopped listening on port 60264
+Dynamically enable window occlusion 1
