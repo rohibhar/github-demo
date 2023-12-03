@@ -27,7 +27,7 @@ Fill up the Login form
     Click Link         Link:ABFC
     Sleep    5
     Switch Window      NEW
-    close browser
+    Close Browser
 
 #Wait until it check and display error message
     #Wait Until Element Is Visible    xpath://p[contains(text(),'Account lockout due to multiple failed login attem')]

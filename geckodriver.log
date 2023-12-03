@@ -1,0 +1,1717 @@
+1701349775138	geckodriver	INFO	Listening on 127.0.0.1:53180
+1701349778229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileO5XeEk"
+1701349797633	geckodriver	INFO	Listening on 127.0.0.1:53188
+1701349800723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileGJZssN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701349802674	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701349808122	Marionette	INFO	Listening on port 53198
+Read port: 53198
+WebDriver BiDi listening on ws://127.0.0.1:53189
+1701349808436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 581: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+DevTools listening on ws://127.0.0.1:53189/devtools/browser/ae66d581-4213-4414-819f-3a6655c834fa
+1701349937371	geckodriver	INFO	Listening on 127.0.0.1:53353
+1701349940352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53354" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileri31pp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701349941206	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701349941934	Marionette	INFO	Listening on port 53361
+WebDriver BiDi listening on ws://127.0.0.1:53354
+Read port: 53361
+1701349942290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53354/devtools/browser/55a790ca-0bb8-4d01-b280-7ed5628f51b4
+JavaScript error: moz-extension://f12d6b1a-4054-48d0-b5cb-6b4070620125/contentTrackerLoader.js, line 18: SecurityError: The operation is insecure.
+JavaScript warning: moz-extension://f12d6b1a-4054-48d0-b5cb-6b4070620125/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+g/<@moz-extension://f12d6b1a-4054-48d0-b5cb-6b4070620125/contentTrackerLoader.js:18:30118
+r@moz-extension://f12d6b1a-4054-48d0-b5cb-6b4070620125/contentTrackerLoader.js:18:29621
+
+1701350399215	geckodriver	INFO	Listening on 127.0.0.1:64733
+1701350401936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64734" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileI3BQlX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701350402677	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701350403393	Marionette	INFO	Listening on port 64743
+WebDriver BiDi listening on ws://127.0.0.1:64734
+Read port: 64743
+1701350403707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64734/devtools/browser/819be24c-9fc7-4859-b3d0-e84c9298fdbc
+1701351015642	geckodriver	INFO	Listening on 127.0.0.1:64823
+1701351018481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64824" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilezLy8xW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701351018991	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701351019728	Marionette	INFO	Listening on port 64831
+WebDriver BiDi listening on ws://127.0.0.1:64824
+Read port: 64831
+1701351020014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64824/devtools/browser/1366ed6f-b8c4-4bc6-9b48-651d8c31f868
+1701351044293	geckodriver	INFO	Listening on 127.0.0.1:64899
+1701351047384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64900" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofiledljoM4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701351047885	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701351048564	Marionette	INFO	Listening on port 64912
+Read port: 64912
+WebDriver BiDi listening on ws://127.0.0.1:64900
+1701351048724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64900/devtools/browser/56cd7843-f375-411c-b937-8247d7e63d79
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1701351448780	geckodriver	INFO	Listening on 127.0.0.1:65196
+1701351451859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65197" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileqNOJdK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701351452366	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701351453159	Marionette	INFO	Listening on port 65204
+Read port: 65204
+WebDriver BiDi listening on ws://127.0.0.1:65197
+1701351453323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65197/devtools/browser/2624e204-15d8-44e4-9f93-5cf4336dbc82
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://58b17ac9-dfca-44f4-ac9a-0030d9f429ed/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.teachable.com."
+1701353000470	geckodriver	INFO	Listening on 127.0.0.1:62889
+1701353003543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62890" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilevcVn6n"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701353004004	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701353004561	Marionette	INFO	Listening on port 62898
+WebDriver BiDi listening on ws://127.0.0.1:62890
+Read port: 62898
+1701353004846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62890/devtools/browser/066cb482-2ff0-4610-9a15-fed5a33d68f5
+JavaScript error: moz-extension://f00f2d64-e106-41bf-a8b0-0f0d3cb03e1c/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.teachable.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.teachable.com."
+JavaScript warning: moz-extension://f00f2d64-e106-41bf-a8b0-0f0d3cb03e1c/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+g/<@moz-extension://f00f2d64-e106-41bf-a8b0-0f0d3cb03e1c/contentTrackerLoader.js:18:30118
+r@moz-extension://f00f2d64-e106-41bf-a8b0-0f0d3cb03e1c/contentTrackerLoader.js:18:29621
+
+JavaScript warning: moz-extension://f00f2d64-e106-41bf-a8b0-0f0d3cb03e1c/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+g/<@moz-extension://f00f2d64-e106-41bf-a8b0-0f0d3cb03e1c/contentTrackerLoader.js:18:30118
+r@moz-extension://f00f2d64-e106-41bf-a8b0-0f0d3cb03e1c/contentTrackerLoader.js:18:29621
+
+JavaScript error: moz-extension://f00f2d64-e106-41bf-a8b0-0f0d3cb03e1c/commons.js, line 1: NS_ERROR_UNEXPECTED
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=82e39cf4bb304963, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701353025671	geckodriver	INFO	Listening on 127.0.0.1:63000
+1701353028752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63001" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilewh7j5A"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701353029206	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701353029755	Marionette	INFO	Listening on port 63010
+WebDriver BiDi listening on ws://127.0.0.1:63001
+Read port: 63010
+1701353030045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63001/devtools/browser/1f3cff5e-5665-4da8-a48e-9d412425beee
+JavaScript error: moz-extension://b9cc10e9-bd70-43ef-be49-5b9ac19f84b2/contentTrackerLoader.js, line 18: SecurityError: The operation is insecure.
+JavaScript warning: moz-extension://b9cc10e9-bd70-43ef-be49-5b9ac19f84b2/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+g/<@moz-extension://b9cc10e9-bd70-43ef-be49-5b9ac19f84b2/contentTrackerLoader.js:18:30118
+r@moz-extension://b9cc10e9-bd70-43ef-be49-5b9ac19f84b2/contentTrackerLoader.js:18:29621
+
+JavaScript error: moz-extension://b9cc10e9-bd70-43ef-be49-5b9ac19f84b2/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.teachable.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.teachable.com."
+JavaScript warning: moz-extension://b9cc10e9-bd70-43ef-be49-5b9ac19f84b2/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+g/<@moz-extension://b9cc10e9-bd70-43ef-be49-5b9ac19f84b2/contentTrackerLoader.js:18:30118
+r@moz-extension://b9cc10e9-bd70-43ef-be49-5b9ac19f84b2/contentTrackerLoader.js:18:29621
+
+JavaScript error: moz-extension://b9cc10e9-bd70-43ef-be49-5b9ac19f84b2/commons.js, line 1: NS_ERROR_UNEXPECTED
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=82e39d8bff246eef, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701353740351	geckodriver	INFO	Listening on 127.0.0.1:58470
+1701353743298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58471" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileJLVTzX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701353744109	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701353744663	Marionette	INFO	Listening on port 58479
+WebDriver BiDi listening on ws://127.0.0.1:58471
+Read port: 58479
+1701353744903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 581: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+DevTools listening on ws://127.0.0.1:58471/devtools/browser/be914082-9e8d-4a58-9df9-6ef1661cfb34
+1701359849561	geckodriver	INFO	Listening on 127.0.0.1:61363
+1701359852533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61364" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofile4rdn1z"
+1701359879079	geckodriver	INFO	Listening on 127.0.0.1:61147
+1701359882044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61148" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileVm47xA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701359883042	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701359884050	Marionette	INFO	Listening on port 61165
+WebDriver BiDi listening on ws://127.0.0.1:61148
+Read port: 61165
+1701359884488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61148/devtools/browser/70c523da-0c7c-49ac-b756-dff7bc99e58e
+[[GFX1-]: CompositorBridgeChild receives IPC close with reaGFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+son=AbnormalShutdown
+Exiting due to channel error.
+1701359903440	geckodriver	INFO	Listening on 127.0.0.1:61230
+1701359906260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilebGZesS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701359907159	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701359907928	Marionette	INFO	Listening on port 61244
+Read port: 61244
+WebDriver BiDi listening on ws://127.0.0.1:61231
+1701359908133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61231/devtools/browser/a0061d31-6afd-4b3b-95f9-bc2278df4ffb
+JavaScript error: moz-extension://a028da1c-36eb-40be-b46e-21a73b3478bf/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://173.36.95.233."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://173.36.95.233."
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1701360070079	geckodriver	INFO	Listening on 127.0.0.1:61384
+1701360073039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileYr0uMJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701360074162	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701360074873	Marionette	INFO	Listening on port 61393
+WebDriver BiDi listening on ws://127.0.0.1:61385
+Read port: 61393
+1701360075140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61385/devtools/browser/d20999c0-672e-4195-9ca8-de02e9453998
+JavaScript error: moz-extension://9d4373b8-2fcd-45f4-895e-b28deffe7fd7/contentTrackerLoader.js, line 18: SecurityError: The operation is insecure.
+JavaScript error: moz-extension://9d4373b8-2fcd-45f4-895e-b28deffe7fd7/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://173.36.95.233."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://173.36.95.233."
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1701360202169	geckodriver	INFO	Listening on 127.0.0.1:61505
+1701360205265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61506" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilecqo3fk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701360206255	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701360206870	Marionette	INFO	Listening on port 61515
+WebDriver BiDi listening on ws://127.0.0.1:61506
+Read port: 61515
+1701360207023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61506/devtools/browser/c7ee7122-2db7-4c71-83a0-3f13534868c7
+JavaScript error: moz-extension://fb3e78df-0dad-4989-bffb-09fe0fbc700c/contentTrackerLoader.js, line 18: SecurityError: The operation is insecure.
+JavaScript warning: moz-extension://fb3e78df-0dad-4989-bffb-09fe0fbc700c/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+C/<@moz-extension://fb3e78df-0dad-4989-bffb-09fe0fbc700c/contentTrackerLoader.js:18:32202
+r@moz-extension://fb3e78df-0dad-4989-bffb-09fe0fbc700c/contentTrackerLoader.js:18:29621
+
+JavaScript error: moz-extension://fb3e78df-0dad-4989-bffb-09fe0fbc700c/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://173.36.95.233."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://173.36.95.233."
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1701360589280	geckodriver	INFO	Listening on 127.0.0.1:61396
+1701360592117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileT7OGSe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701360592922	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701360593684	Marionette	INFO	Listening on port 61405
+WebDriver BiDi listening on ws://127.0.0.1:61397
+Read port: 61405
+1701360593984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61397/devtools/browser/acead302-a06d-44ad-a469-34eb2f030625
+JavaScript error: moz-extension://fbc80c54-fc21-4fd6-8439-862874e2ac9a/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+Exiting due to channel error.
+1701360640217	geckodriver	INFO	Listening on 127.0.0.1:61485
+1701360643173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61486" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilem2iDjT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701360644022	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701360644872	Marionette	INFO	Listening on port 61493
+Read port: 61493
+WebDriver BiDi listening on ws://127.0.0.1:61486
+1701360645026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61486/devtools/browser/fd8de8f7-0495-4044-91ef-1e11e47d1377
+JavaScript error: moz-extension://2cc6b54a-cc34-42ee-9b1f-aeb47c2a1963/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+Exiting due to channel error.
+Exiting due to channel error.
+1701360734781	geckodriver	INFO	Listening on 127.0.0.1:61634
+1701360737644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileSBh0YA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701360738444	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701360739175	Marionette	INFO	Listening on port 61643
+WebDriver BiDi listening on ws://127.0.0.1:61635
+Read port: 61643
+1701360739474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61635/devtools/browser/cebc28df-ebac-4a24-b106-90892c3c6fb4
+JavaScript error: moz-extension://deb0e266-606b-4cf9-88ca-af7c43704536/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701360951172	geckodriver	INFO	Listening on 127.0.0.1:62841
+1701360954138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62842" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileGhVFNU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701360954982	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701360955658	Marionette	INFO	Listening on port 62852
+WebDriver BiDi listening on ws://127.0.0.1:62842
+Read port: 62852
+1701360955979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+DevTools listening on ws://127.0.0.1:62842/devtools/browser/c749c572-1f65-41c2-883d-9adf5b4a2322
+JavaScript error: moz-extension://4f2a718c-1828-4983-a4f1-b451d69cd7be/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701361079949	geckodriver	INFO	Listening on 127.0.0.1:62982
+1701361082925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62983" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileD81AMh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701361083893	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701361084761	Marionette	INFO	Listening on port 62992
+Read port: 62992
+WebDriver BiDi listening on ws://127.0.0.1:62983
+1701361084916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62983/devtools/browser/77beff56-d673-4311-a156-7acc57d7e307
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://b33a5f39-cd5a-46a4-ba6a-9d9a8ca47c85/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+Exiting due to channel error.
+Exiting due to channel error.
+1701361138277	geckodriver	INFO	Listening on 127.0.0.1:63070
+1701361141370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileVs1mcr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701361142389	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701361143079	Marionette	INFO	Listening on port 63079
+Read port: 63079
+WebDriver BiDi listening on ws://127.0.0.1:63071
+1701361143252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63071/devtools/browser/949d4afd-361c-44ac-9c73-9d5170e708c5
+JavaScript error: moz-extension://fade0867-e209-4a2a-a4ef-9a9ef04b0e79/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1701361173666	geckodriver	INFO	Listening on 127.0.0.1:63150
+1701361176492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileDgPHl3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701361177028	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701361177669	Marionette	INFO	Listening on port 63158
+Read port: 63158
+WebDriver BiDi listening on ws://127.0.0.1:63151
+1701361177815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63151/devtools/browser/bd10481e-000b-4af6-b85a-01e5f7794ef0
+JavaScript error: moz-extension://b65cd945-b8b0-4ad9-bd1e-25f39260b87f/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+Exiting due to channel error.
+Exiting due to channel error.
+1701361284789	geckodriver	INFO	Listening on 127.0.0.1:63282
+1701361287721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63283" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileiGOWRM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701361288484	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701361289200	Marionette	INFO	Listening on port 63293
+Read port: 63293
+WebDriver BiDi listening on ws://127.0.0.1:63283
+1701361289346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63283/devtools/browser/ba061838-f8b1-4336-95ff-6da99be647b1
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://5921e966-cdaf-4e75-92e9-4c41631d3205/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1701361350447	geckodriver	INFO	Listening on 127.0.0.1:63389
+1701361353311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63390" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileutWI1L"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701361354251	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701361354993	Marionette	INFO	Listening on port 63397
+Read port: 63397
+WebDriver BiDi listening on ws://127.0.0.1:63390
+1701361355152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63390/devtools/browser/1f8cd4ab-7a90-498c-8b14-f869f178fa7b
+JavaScript error: moz-extension://25ba9988-d79c-4f2d-b761-28b1fa350486/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701361384273	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1701361422584	geckodriver	INFO	Listening on 127.0.0.1:63507
+1701361425682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63508" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileNuq473"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701361426592	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701361427543	Marionette	INFO	Listening on port 63515
+WebDriver BiDi listening on ws://127.0.0.1:63508
+Read port: 63515
+1701361427911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63508/devtools/browser/d1fabb1e-c374-481a-b30d-bd5e8aba41ca
+1701361445452	geckodriver	INFO	Listening on 127.0.0.1:63585
+1701361448527	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63586" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileideaAI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701361449073	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701361449736	Marionette	INFO	Listening on port 63593
+WebDriver BiDi listening on ws://127.0.0.1:63586
+Read port: 63593
+1701361450027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63586/devtools/browser/dd4e6cbf-6dba-43ec-b5a5-7014c59ad915
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://ae03937e-9761-4993-8cdd-4e82ef3417eb/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701361471814	Marionette	INFO	Stopped listening on port 63593
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 650: TypeError: context.contentWindow is null
+1701361532796	geckodriver	INFO	Listening on 127.0.0.1:63704
+1701361535901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63705" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileGHR0dB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701361536416	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701361537081	Marionette	INFO	Listening on port 63712
+Read port: 63712
+WebDriver BiDi listening on ws://127.0.0.1:63705
+1701361537229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+DevTools listening on ws://127.0.0.1:63705/devtools/browser/ac6ad3dc-cc86-4ccf-a728-e79adee18f26
+JavaScript error: moz-extension://b53a5817-7f9b-4f56-a87d-85bd4b6ac4d6/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701361559369	Marionette	INFO	Stopped listening on port 63712
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 650: TypeError: context.contentWindow is null
+1701361607794	geckodriver	INFO	Listening on 127.0.0.1:63816
+1701361610907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63817" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilehNzPPJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701361611486	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701361612250	Marionette	INFO	Listening on port 63824
+WebDriver BiDi listening on ws://127.0.0.1:63817
+Read port: 63824
+1701361612553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 581: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+DevTools listening on ws://127.0.0.1:63817/devtools/browser/e89585b4-628f-4aa2-9f25-3acb61e88c38
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://955c9d63-d8b1-4bd1-b590-d5a6962e8aea/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701361633741	geckodriver	INFO	Listening on 127.0.0.1:63907
+1701361636841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63908" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileS0CRdA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701361637490	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701361638211	Marionette	INFO	Listening on port 63915
+WebDriver BiDi listening on ws://127.0.0.1:63908
+Read port: 63915
+1701361638354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63908/devtools/browser/e3c8c8b6-ce84-4672-9b72-7a9a7c454015
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://c5ea9ac7-784a-43aa-8448-bb02b1bada77/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+Exiting due to channel error.
+1701361688593	geckodriver	INFO	Listening on 127.0.0.1:58285
+1701361691698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58286" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileiXSeH2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701361692210	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701361692888	Marionette	INFO	Listening on port 58393
+Read port: 58393
+WebDriver BiDi listening on ws://127.0.0.1:58286
+1701361693048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58286/devtools/browser/8721bca9-fd08-4d27-be37-a920e7d9e172
+JavaScript error: moz-extension://d18c6fb8-f2bb-4a15-867c-41febb9cc536/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701361796396	geckodriver	INFO	Listening on 127.0.0.1:56901
+1701361799367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56902" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileUbHkai"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701361800369	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701361801101	Marionette	INFO	Listening on port 56911
+Read port: 56911
+WebDriver BiDi listening on ws://127.0.0.1:56902
+1701361801296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1701361804386	Marionette	INFO	Stopped listening on port 56911
+Dynamically enable window occlusion 1
+1701361804420	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+1701361815991	geckodriver	INFO	Listening on 127.0.0.1:56967
+1701361818856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56968" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileDsevET"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701361819942	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701361820861	Marionette	INFO	Listening on port 56982
+WebDriver BiDi listening on ws://127.0.0.1:56968
+Read port: 56982
+1701361821211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56968/devtools/browser/c459247a-92be-45fa-9e3d-0c71a6714a53
+JavaScript error: moz-extension://4fe0420d-02a5-43c3-b486-f2840da3e505/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+Exiting due to channel error.
+1701361940382	geckodriver	INFO	Listening on 127.0.0.1:57875
+1701361943373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57876" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofile8LAn9L"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701361944191	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701361944863	Marionette	INFO	Listening on port 57888
+Read port: 57888
+WebDriver BiDi listening on ws://127.0.0.1:57876
+1701361945000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+DevTools listening on ws://127.0.0.1:57876/devtools/browser/2054874e-e99c-4854-8aa9-5d567b62aaaa
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://5c044663-1de8-403b-a985-b90f8d78e399/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1701362030264	geckodriver	INFO	Listening on 127.0.0.1:58045
+1701362033348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58046" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileE5A2dB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701362033874	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701362034539	Marionette	INFO	Listening on port 58057
+Read port: 58057
+WebDriver BiDi listening on ws://127.0.0.1:58046
+1701362034676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58046/devtools/browser/27a00198-5cae-47c2-bb0a-4fe314808e5c
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://fc34ecdb-362c-417d-b88a-ba8aa5e862eb/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701362104364	geckodriver	INFO	Listening on 127.0.0.1:58405
+1701362107484	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58406" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileZPzLO0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701362108132	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701362108753	Marionette	INFO	Listening on port 58416
+Read port: 58416
+WebDriver BiDi listening on ws://127.0.0.1:58406
+1701362108908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58406/devtools/browser/229b0bce-b428-402e-a0e4-b02ed0f302f0
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://31df6aec-c700-4dd1-bfa4-467bc177a564/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+Exiting due to channel error.
+1701362366705	geckodriver	INFO	Listening on 127.0.0.1:58713
+1701362369786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58714" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofile0SpiJ5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701362370510	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701362371183	Marionette	INFO	Listening on port 58725
+Read port: 58725
+WebDriver BiDi listening on ws://127.0.0.1:58714
+1701362371314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58714/devtools/browser/40b6c3d6-582e-4a27-969e-cb96bf222a57
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://09beec75-33ce-49d7-babb-2607c89d660a/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+Exiting due to channel error.
+1701362430883	geckodriver	INFO	Listening on 127.0.0.1:58880
+1701362433975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58881" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilehfyJXx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701362434482	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701362435182	Marionette	INFO	Listening on port 58889
+Read port: 58889
+WebDriver BiDi listening on ws://127.0.0.1:58881
+1701362435325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58881/devtools/browser/e901dc07-d6a3-4a0a-9743-885df12fb1ca
+JavaScript error: moz-extension://54ce8ca3-7d40-44be-b4ae-babf023076aa/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1701362529584	geckodriver	INFO	Listening on 127.0.0.1:59037
+1701362532656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59038" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileYyFIY2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701362533283	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701362534222	Marionette	INFO	Listening on port 59047
+Read port: 59047
+WebDriver BiDi listening on ws://127.0.0.1:59038
+1701362534378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59038/devtools/browser/d626f41d-9484-4b49-92a9-0a1ad4a2175b
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://106083d4-0e9d-4cec-a84d-643669677cf8/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1701362860831	geckodriver	INFO	Listening on 127.0.0.1:64819
+1701362863891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64820" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofile04I3Ha"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701362864374	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701362865077	Marionette	INFO	Listening on port 64832
+Read port: 64832
+WebDriver BiDi listening on ws://127.0.0.1:64820
+1701362865228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64820/devtools/browser/a6f45514-95f4-4c0f-a478-eaad54df92e0
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://6c55a3cc-cf13-44be-95b9-f85625c4657f/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+Exiting due to channel error.
+1701363006752	geckodriver	INFO	Listening on 127.0.0.1:65026
+1701363009843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileiFNmzw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701363010397	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701363011127	Marionette	INFO	Listening on port 65038
+Read port: 65038
+WebDriver BiDi listening on ws://127.0.0.1:65027
+1701363011354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65027/devtools/browser/acfe45be-2791-450c-8c18-8f85a80ab380
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://d751e363-afaf-4438-9590-ebb6a4a0a6f3/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701363040441	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701363049820	Marionette	INFO	Stopped listening on port 65038
+JavaScript warning: moz-extension://d751e363-afaf-4438-9590-ebb6a4a0a6f3/commons.js, line 1: Script terminated by timeout at:
+a@moz-extension://d751e363-afaf-4438-9590-ebb6a4a0a6f3/commons.js:1:14538
+waitUntilScriptInjectionEnded/t<@moz-extension://d751e363-afaf-4438-9590-ebb6a4a0a6f3/commons.js:1:15987
+
+Dynamically enable window occlusion 1
+1701364849462	geckodriver	INFO	Listening on 127.0.0.1:59351
+1701364852553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59352" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilek9c2xQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701364853236	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701364853850	Marionette	INFO	Listening on port 59363
+Read port: 59363
+WebDriver BiDi listening on ws://127.0.0.1:59352
+1701364854001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59352/devtools/browser/7c5f935f-749a-4e55-895f-d002411facd3
+JavaScript error: moz-extension://abb62808-0ae6-4054-a175-9002ea483321/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701364876086	Marionette	INFO	Stopped listening on port 59363
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 650: TypeError: context.contentWindow is null
+1701365584378	geckodriver	INFO	Listening on 127.0.0.1:57178
+1701365587222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57179" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofile869UFx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701365587898	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701365588490	Marionette	INFO	Listening on port 57188
+Read port: 57188
+WebDriver BiDi listening on ws://127.0.0.1:57179
+1701365588639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57179/devtools/browser/8f6c337d-4d7e-430a-832a-188b68cd0ea4
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://90b56a03-1959-4476-b6e5-0bf6214febef/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701365625766	geckodriver	INFO	Listening on 127.0.0.1:57273
+1701365628631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57274" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileJLroYM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701365629322	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701365629961	Marionette	INFO	Listening on port 57283
+WebDriver BiDi listening on ws://127.0.0.1:57274
+Read port: 57283
+1701365630271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+DevTools listening on ws://127.0.0.1:57274/devtools/browser/9cd1c888-c0d7-4c88-9657-fdab4479bbdd
+JavaScript error: moz-extension://8a05d473-7f65-4772-948c-c4121f03afa1/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701365653259	Marionette	INFO	Stopped listening on port 57283
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 650: TypeError: context.contentWindow is null
+1701366479920	geckodriver	INFO	Listening on 127.0.0.1:64915
+1701366482805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64916" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofile7DWfge"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701366483647	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701366484322	Marionette	INFO	Listening on port 64929
+Read port: 64929
+WebDriver BiDi listening on ws://127.0.0.1:64916
+1701366484466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64916/devtools/browser/0973a5e8-87aa-43fe-8d72-5993914284fb
+JavaScript error: moz-extension://766859cb-bb45-466f-9a1f-910a55e24d0e/contentTrackerLoader.js, line 18: SecurityError: The operation is insecure.
+JavaScript warning: moz-extension://766859cb-bb45-466f-9a1f-910a55e24d0e/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+g/<@moz-extension://766859cb-bb45-466f-9a1f-910a55e24d0e/contentTrackerLoader.js:18:30118
+r@moz-extension://766859cb-bb45-466f-9a1f-910a55e24d0e/contentTrackerLoader.js:18:29621
+
+JavaScript error: moz-extension://766859cb-bb45-466f-9a1f-910a55e24d0e/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1701406445958	geckodriver	INFO	Listening on 127.0.0.1:55994
+1701406448802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55995" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileN7a7j0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701406449859	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701406450410	Marionette	INFO	Listening on port 56002
+Read port: 56002
+WebDriver BiDi listening on ws://127.0.0.1:55995
+1701406450612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55995/devtools/browser/f7042614-cf29-440e-a753-5a751a1bce34
+JavaScript error: moz-extension://069c7ca1-f4a5-4303-81c9-7f076c5d8cad/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701406479910	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701406482257	Marionette	INFO	Stopped listening on port 56002
+JavaScript warning: moz-extension://069c7ca1-f4a5-4303-81c9-7f076c5d8cad/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+removeListener@moz-extension://069c7ca1-f4a5-4303-81c9-7f076c5d8cad/contentTrackerLoader.js:18:34933
+t.getTTI/l/r<@moz-extension://069c7ca1-f4a5-4303-81c9-7f076c5d8cad/contentTrackerLoader.js:18:34209
+
+Dynamically enable window occlusion 1
+1701418030381	geckodriver	INFO	Listening on 127.0.0.1:60701
+1701418033352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60702" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofiled0kKYa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701418034068	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701418034673	Marionette	INFO	Listening on port 60713
+WebDriver BiDi listening on ws://127.0.0.1:60702
+Read port: 60713
+1701418034987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60702/devtools/browser/117e62cd-3599-482a-b715-3a7eb0aab2f9
+JavaScript error: moz-extension://60d328e9-cd0f-43e2-9d60-300917c78e72/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1701433826521	geckodriver	INFO	Listening on 127.0.0.1:53782
+1701433829253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilexH4ZhD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701433830119	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701433830856	Marionette	INFO	Listening on port 53791
+Read port: 53791
+WebDriver BiDi listening on ws://127.0.0.1:53783
+1701433831060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+DevTools listening on ws://127.0.0.1:53783/devtools/browser/c7096d4b-0cb4-4e22-802e-7096177d2a34
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://2cfa8e18-caa0-4e6a-8e87-ba77ca2466e7/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+Exiting due to channel error.
+1701433899822	geckodriver	INFO	Listening on 127.0.0.1:53922
+1701433902787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53923" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileJvOyNP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701433903701	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701433904337	Marionette	INFO	Listening on port 53933
+WebDriver BiDi listening on ws://127.0.0.1:53923
+Read port: 53933
+1701433904706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 581: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+DevTools listening on ws://127.0.0.1:53923/devtools/browser/55d91d63-f883-4c41-b614-f27358d4e300
+JavaScript error: moz-extension://31467d45-1e1e-4d79-b489-529222222776/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701433933773	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: moz-extension://31467d45-1e1e-4d79-b489-529222222776/contentTrackerLoader.js, line 18: TypeError: t is undefined
+1701433951317	Marionette	INFO	Stopped listening on port 53933
+JavaScript warning: moz-extension://31467d45-1e1e-4d79-b489-529222222776/extensions.js, line 61: Script terminated by timeout at:
+getCurrentWindow@moz-extension://31467d45-1e1e-4d79-b489-529222222776/extensions.js:61:145421
+handleFocusChange@moz-extension://31467d45-1e1e-4d79-b489-529222222776/extensions.js:1:92033
+init/<@moz-extension://31467d45-1e1e-4d79-b489-529222222776/extensions.js:71:95867
+o/</<@moz-extension://31467d45-1e1e-4d79-b489-529222222776/extensions.js:1:42704
+o/<@moz-extension://31467d45-1e1e-4d79-b489-529222222776/extensions.js:1:42676
+
+Dynamically enable window occlusion 1
+1701434354462	geckodriver	INFO	Listening on 127.0.0.1:54252
+1701434357437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54253" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilebfT1Kg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701434358183	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701434358791	Marionette	INFO	Listening on port 54260
+WebDriver BiDi listening on ws://127.0.0.1:54253
+Read port: 54260
+1701434359053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54253/devtools/browser/90d17c50-fa0e-43da-92c9-39c92ffeb19f
+JavaScript error: moz-extension://4c54ce6e-4d57-4d47-8658-897a6ab20606/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+Exiting due to channel error.
+Exiting due to channel error.
+1701434437099	geckodriver	INFO	Listening on 127.0.0.1:54383
+1701434440210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54384" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileNlHSZr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701434441006	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701434441764	Marionette	INFO	Listening on port 54393
+WebDriver BiDi listening on ws://127.0.0.1:54384
+Read port: 54393
+1701434442057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54384/devtools/browser/7a6f6c76-f358-4ee1-bda5-2b248ab848b3
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://7e87e737-8c69-4b11-ba7b-a429534f59ce/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701434471051	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: moz-extension://7e87e737-8c69-4b11-ba7b-a429534f59ce/contentTrackerLoader.js, line 18: TypeError: t is undefined
+1701434480841	Marionette	INFO	Stopped listening on port 54393
+JavaScript warning: moz-extension://7e87e737-8c69-4b11-ba7b-a429534f59ce/resource/userInformation.js, line 18: Script terminated by timeout at:
+@moz-extension://7e87e737-8c69-4b11-ba7b-a429534f59ce/resource/userInformation.js:18:78
+
+JavaScript warning: moz-extension://7e87e737-8c69-4b11-ba7b-a429534f59ce/extensions.js, line 61: Script terminated by timeout at:
+trackTime@moz-extension://7e87e737-8c69-4b11-ba7b-a429534f59ce/extensions.js:61:47212
+trackTime@moz-extension://7e87e737-8c69-4b11-ba7b-a429534f59ce/extensions.js:1:88437
+collectReadyContexts@moz-extension://7e87e737-8c69-4b11-ba7b-a429534f59ce/extensions.js:61:50109
+updateContext@moz-extension://7e87e737-8c69-4b11-ba7b-a429534f59ce/extensions.js:61:51054
+handleContextChangeEvent@moz-extension://7e87e737-8c69-4b11-ba7b-a429534f59ce/extensions.js:61:43511
+storeLogEvent@moz-extension://7e87e737-8c69-4b11-ba7b-a429534f59ce/extensions.js:61:42589
+storeLogEvent@moz-extension://7e87e737-8c69-4b11-ba7b-a429534f59ce/extensions.js:1:66932
+init/<@moz-extension://7e87e737-8c69-4b11-ba7b-a429534f59ce/extensions.js:71:95893
+o/</<@moz-extension://7e87e737-8c69-4b11-ba7b-a429534f59ce/extensions.js:1:42704
+o/<@moz-extension://7e87e737-8c69-4b11-ba7b-a429534f59ce/extensions.js:1:42676
+
+Dynamically enable window occlusion 1
+1701434642861	geckodriver	INFO	Listening on 127.0.0.1:55400
+1701434645971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55401" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofile0tdCBW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701434646798	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701434647503	Marionette	INFO	Listening on port 55410
+Read port: 55410
+WebDriver BiDi listening on ws://127.0.0.1:55401
+1701434647673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55401/devtools/browser/6349ac50-dd91-4743-b125-52dc6797cedc
+JavaScript error: moz-extension://463f0ce7-b345-4918-a7dc-e8d802590738/contentTrackerLoader.js, line 18: SecurityError: The operation is insecure.
+JavaScript warning: moz-extension://463f0ce7-b345-4918-a7dc-e8d802590738/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+g/<@moz-extension://463f0ce7-b345-4918-a7dc-e8d802590738/contentTrackerLoader.js:18:30118
+r@moz-extension://463f0ce7-b345-4918-a7dc-e8d802590738/contentTrackerLoader.js:18:29621
+
+JavaScript error: moz-extension://463f0ce7-b345-4918-a7dc-e8d802590738/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+Exiting due to channel error.
+1701434804859	geckodriver	INFO	Listening on 127.0.0.1:55621
+1701434807961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55622" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofiletikNqz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701434808474	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701434809239	Marionette	INFO	Listening on port 55631
+Read port: 55631
+WebDriver BiDi listening on ws://127.0.0.1:55622
+1701434809423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+DevTools listening on ws://127.0.0.1:55622/devtools/browser/f639ce43-3344-4bfc-b281-3024380e9da2
+JavaScript error: moz-extension://955e7c56-9cb3-4e27-a2aa-8ec2678d48cb/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701434880384	geckodriver	INFO	Listening on 127.0.0.1:55762
+1701434883472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55763" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilefYsINJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701434884157	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701434884983	Marionette	INFO	Listening on port 55772
+Read port: 55772
+WebDriver BiDi listening on ws://127.0.0.1:55763
+1701434885286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55763/devtools/browser/bbd4c11b-d634-49c2-a32f-8d756493ed7c
+JavaScript error: moz-extension://e41bf585-525c-441f-ac28-47e68a3212db/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1701434921427	geckodriver	INFO	Listening on 127.0.0.1:55879
+1701434924509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55880" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileo5nWgK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701434925077	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701434925681	Marionette	INFO	Listening on port 55890
+Read port: 55890
+WebDriver BiDi listening on ws://127.0.0.1:55880
+1701434925840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55880/devtools/browser/e3d15794-fffc-4f1e-a56a-1107bd0738b5
+JavaScript error: moz-extension://1777644e-f2b8-4efa-a060-1e875f764da7/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1701434962776	geckodriver	INFO	Listening on 127.0.0.1:55991
+1701434965886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55992" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileNe4rPO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701434966400	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701434967010	Marionette	INFO	Listening on port 56002
+WebDriver BiDi listening on ws://127.0.0.1:55992
+Read port: 56002
+1701434967282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55992/devtools/browser/f140d0fe-4cb1-4be2-8607-992a4d471f16
+JavaScript error: moz-extension://f325732c-de43-4952-9b0c-517fc3e38123/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+JavaScript error: moz-extension://f325732c-de43-4952-9b0c-517fc3e38123/contentTrackerLoader.js, line 18: TypeError: t is undefined
+1701434996447	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701435000508	Marionette	INFO	Stopped listening on port 56002
+JavaScript warning: https://10.150.151.125/CommonAuth/web/, line 2520: Script terminated by timeout at:
+changeTimeZone@https://10.150.151.125/CommonAuth/web/:2520:22
+display_ct5@https://10.150.151.125/CommonAuth/web/:2530:34
+@https://10.150.151.125/CommonAuth/web/:2564:1
+
+Dynamically enable window occlusion 1
+1701435071609	geckodriver	INFO	Listening on 127.0.0.1:56139
+1701435074659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56140" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilehrLP0S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701435075157	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701435075879	Marionette	INFO	Listening on port 56147
+WebDriver BiDi listening on ws://127.0.0.1:56140
+Read port: 56147
+1701435076186	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56140/devtools/browser/4c1d269b-cb98-41f0-9252-f6f6bbae87af
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://7d37d671-ddcb-4785-bd41-f59eb4608902/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+JavaScript error: moz-extension://7d37d671-ddcb-4785-bd41-f59eb4608902/contentTrackerLoader.js, line 18: TypeError: t is undefined
+1701435105193	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701435142212	geckodriver	INFO	Listening on 127.0.0.1:56269
+1701435145281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56270" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilehIR6pV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701435145825	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701435146402	Marionette	INFO	Listening on port 56277
+WebDriver BiDi listening on ws://127.0.0.1:56270
+Read port: 56277
+1701435146673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56270/devtools/browser/faf6d087-b4bf-46c1-aec0-c4601a34bb54
+JavaScript error: moz-extension://47f78723-97c0-4a35-b6ca-27abe728994e/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+JavaScript error: moz-extension://47f78723-97c0-4a35-b6ca-27abe728994e/contentTrackerLoader.js, line 18: TypeError: t is undefined
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1701435272343	geckodriver	INFO	Listening on 127.0.0.1:56437
+1701435275435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56438" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilesResnX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701435276001	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701435276565	Marionette	INFO	Listening on port 56448
+WebDriver BiDi listening on ws://127.0.0.1:56438
+Read port: 56448
+1701435276839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56438/devtools/browser/044f18df-c6a9-4c9d-8d50-280cc33e67da
+JavaScript error: moz-extension://9815fc60-f74b-43b8-b8ac-09b0df829837/contentTrackerLoader.js, line 18: SecurityError: The operation is insecure.
+JavaScript warning: moz-extension://9815fc60-f74b-43b8-b8ac-09b0df829837/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+r@moz-extension://9815fc60-f74b-43b8-b8ac-09b0df829837/contentTrackerLoader.js:18:29713
+
+JavaScript error: moz-extension://9815fc60-f74b-43b8-b8ac-09b0df829837/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+JavaScript error: moz-extension://9815fc60-f74b-43b8-b8ac-09b0df829837/contentTrackerLoader.js, line 18: TypeError: t is undefined
+Exiting due to channel error.
+1701435332921	geckodriver	INFO	Listening on 127.0.0.1:56586
+1701435336028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56587" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilek1qGB4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701435336607	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701435337213	Marionette	INFO	Listening on port 56597
+Read port: 56597
+WebDriver BiDi listening on ws://127.0.0.1:56587
+1701435337519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56587/devtools/browser/b10e76da-4a7a-4614-9e44-09bbd8158aff
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://cd356b50-a73a-4a9e-abc0-8be4037a5336/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+JavaScript error: moz-extension://cd356b50-a73a-4a9e-abc0-8be4037a5336/contentTrackerLoader.js, line 18: TypeError: t is undefined
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1701435444848	geckodriver	INFO	Listening on 127.0.0.1:56759
+1701435447911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56760" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileZ3qd6t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701435448715	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701435449297	Marionette	INFO	Listening on port 60726
+Read port: 60726
+WebDriver BiDi listening on ws://127.0.0.1:56760
+1701435449442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56760/devtools/browser/ff20b92c-b55d-415b-a0d2-c63974a6f64a
+JavaScript error: moz-extension://40ff486f-2669-41cc-8f85-3b3128a3ea1a/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+JavaScript error: moz-extension://40ff486f-2669-41cc-8f85-3b3128a3ea1a/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://40ff486f-2669-41cc-8f85-3b3128a3ea1a/contentTrackerLoader.js, line 18: TypeError: t is undefined
+1701435478778	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701435478786	Marionette	INFO	Stopped listening on port 60726
+Dynamically enable window occlusion 1
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+console.warn: services.settings: blocklists/addons-bloomfilters sync interrupted by shutdown
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 650: TypeError: context.contentWindow is null
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/public-suffix-list sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/nimbus-desktop-defaults getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1701435510549	geckodriver	INFO	Listening on 127.0.0.1:60878
+1701435513618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileR0vr4T"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701435514148	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701435514848	Marionette	INFO	Listening on port 60888
+WebDriver BiDi listening on ws://127.0.0.1:60879
+Read port: 60888
+1701435515108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60879/devtools/browser/83d44e00-b246-45e6-84f6-5fdc91c321fb
+JavaScript error: moz-extension://92f57cd4-383c-473e-85ac-f9980bbe6832/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701435544210	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: moz-extension://92f57cd4-383c-473e-85ac-f9980bbe6832/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://92f57cd4-383c-473e-85ac-f9980bbe6832/contentTrackerLoader.js, line 18: TypeError: t is undefined
+1701435559108	Marionette	INFO	Stopped listening on port 60888
+JavaScript warning: moz-extension://92f57cd4-383c-473e-85ac-f9980bbe6832/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+ContextBuilder/<@moz-extension://92f57cd4-383c-473e-85ac-f9980bbe6832/contentTrackerLoader.js:18:20929
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 168: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 650: TypeError: context.contentWindow is null
+1701435745895	geckodriver	INFO	Listening on 127.0.0.1:61245
+1701435748966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61246" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofile1NnL5h"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701435749595	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701435750190	Marionette	INFO	Listening on port 61256
+WebDriver BiDi listening on ws://127.0.0.1:61246
+Read port: 61256
+1701435750450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61246/devtools/browser/9c93d7c8-2e73-4cf8-9225-7d11e3c9f989
+JavaScript error: moz-extension://fd81d3a1-42a2-42ae-bf04-f9c80bf058a9/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+JavaScript error: moz-extension://fd81d3a1-42a2-42ae-bf04-f9c80bf058a9/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://fd81d3a1-42a2-42ae-bf04-f9c80bf058a9/contentTrackerLoader.js, line 18: TypeError: t is undefined
+1701435779656	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+1701435858526	geckodriver	INFO	Listening on 127.0.0.1:61430
+1701435861621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61431" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofile4PPrMO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701435862132	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701435862643	Marionette	INFO	Listening on port 61440
+WebDriver BiDi listening on ws://127.0.0.1:61431
+Read port: 61440
+1701435862928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61431/devtools/browser/f315bfc8-fd4d-48f8-95c2-5c1e1935dea9
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://2e236e42-45b8-454a-bdc9-b4901f46b3a7/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+1701435892209	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: moz-extension://2e236e42-45b8-454a-bdc9-b4901f46b3a7/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://2e236e42-45b8-454a-bdc9-b4901f46b3a7/contentTrackerLoader.js, line 18: TypeError: t is undefined
+[GFX1-]: CompositorBridgeChild rec[G[[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+eives IPC close with reason=AbnormalShutdowGFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdownn
+[GFX1-]: CompositorBridgeChilFd receives IPC close with reason=AbnormalShutdownX1-]: CompositorBridgeChild receives IPC close with reason=Abnorma
+lShutdown
+
+1701515028615	geckodriver	INFO	Listening on 127.0.0.1:59541
+1701515030713	geckodriver	INFO	Listening on 127.0.0.1:59548
+1701515033783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileSOJPsU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701515034426	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701515035017	Marionette	INFO	Listening on port 59558
+WebDriver BiDi listening on ws://127.0.0.1:59549
+Read port: 59558
+1701515035318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59549/devtools/browser/f71867e8-d282-445b-b3f1-97a7a6398174
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://67ca810e-4217-44af-b730-3453d36bf429/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+JavaScript error: moz-extension://67ca810e-4217-44af-b730-3453d36bf429/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://67ca810e-4217-44af-b730-3453d36bf429/contentTrackerLoader.js, line 18: TypeError: t is undefined
+1701515064451	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+1701515129379	geckodriver	INFO	Listening on 127.0.0.1:59800
+1701515132212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileKQOS5V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701515132635	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701515133157	Marionette	INFO	Listening on port 59810
+Read port: 59810
+WebDriver BiDi listening on ws://127.0.0.1:59801
+1701515133290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59801/devtools/browser/09f36b9e-12eb-4c97-b27f-d21ab96385fa
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://0b5b7973-10c6-456b-87dd-e545c6db0b68/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+JavaScript error: moz-extension://0b5b7973-10c6-456b-87dd-e545c6db0b68/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://0b5b7973-10c6-456b-87dd-e545c6db0b68/contentTrackerLoader.js, line 18: TypeError: t is undefined
+1701515162700	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1701515232961	geckodriver	INFO	Listening on 127.0.0.1:60038
+1701515235792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60039" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofile9Mai7f"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701515236469	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701515237046	Marionette	INFO	Listening on port 60049
+WebDriver BiDi listening on ws://127.0.0.1:60039
+Read port: 60049
+1701515237174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60039/devtools/browser/54f65056-9559-436d-bd69-6002e8eb4c43
+JavaScript error: moz-extension://61e9cb08-0e31-4b2e-a153-39e9ff3df601/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+JavaScript error: moz-extension://61e9cb08-0e31-4b2e-a153-39e9ff3df601/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://61e9cb08-0e31-4b2e-a153-39e9ff3df601/contentTrackerLoader.js, line 18: TypeError: t is undefined
+1701515266512	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1701515579439	geckodriver	INFO	Listening on 127.0.0.1:62834
+1701515582272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62835" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilesIk3H6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701515582826	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701515583406	Marionette	INFO	Listening on port 62844
+WebDriver BiDi listening on ws://127.0.0.1:62835
+Read port: 62844
+1701515583638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62835/devtools/browser/00ef3979-8d98-4197-9439-a9211607f154
+JavaScript error: moz-extension://4b350f13-d5dd-4ba1-beb9-6abfd1264fc2/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+JavaScript error: moz-extension://4b350f13-d5dd-4ba1-beb9-6abfd1264fc2/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://4b350f13-d5dd-4ba1-beb9-6abfd1264fc2/contentTrackerLoader.js, line 18: TypeError: t is undefined
+1701515612872	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+1701515647076	geckodriver	INFO	Listening on 127.0.0.1:63003
+1701515650042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63004" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileCW6ZW3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701515650615	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701515651246	Marionette	INFO	Listening on port 63018
+WebDriver BiDi listening on ws://127.0.0.1:63004
+Read port: 63018
+1701515651490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+DevTools listening on ws://127.0.0.1:63004/devtools/browser/facf2ba1-a94d-4c4e-929d-39d3b661d14a
+JavaScript error: moz-extension://bdd6dfb0-646e-4af4-a6f5-f59f47d5cab3/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+JavaScript error: moz-extension://bdd6dfb0-646e-4af4-a6f5-f59f47d5cab3/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://bdd6dfb0-646e-4af4-a6f5-f59f47d5cab3/contentTrackerLoader.js, line 18: TypeError: t is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+1701515891009	geckodriver	INFO	Listening on 127.0.0.1:63343
+1701515893993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63344" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofile6rrJBe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701515894745	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701515895275	Marionette	INFO	Listening on port 63355
+Read port: 63355
+WebDriver BiDi listening on ws://127.0.0.1:63344
+1701515895428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63344/devtools/browser/25b0f2bf-e38c-4f36-8d44-256a31b0fd81
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: moz-extension://cccbabff-0256-429b-983a-a5cd21c8a7ff/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+JavaScript error: moz-extension://cccbabff-0256-429b-983a-a5cd21c8a7ff/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://cccbabff-0256-429b-983a-a5cd21c8a7ff/contentTrackerLoader.js, line 18: TypeError: t is undefined
+1701515924800	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+1701515971831	geckodriver	INFO	Listening on 127.0.0.1:63506
+1701515974916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63507" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilejVaf1V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701515975335	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701515975917	Marionette	INFO	Listening on port 63516
+WebDriver BiDi listening on ws://127.0.0.1:63507
+Read port: 63516
+1701515976190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63507/devtools/browser/2a5f3d8f-b05d-4fb3-93b6-dbc2b8c37219
+JavaScript error: moz-extension://6712cfe3-845c-48f7-9b1e-021f5b1b583e/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://10.150.151.125."
+JavaScript error: moz-extension://6712cfe3-845c-48f7-9b1e-021f5b1b583e/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://6712cfe3-845c-48f7-9b1e-021f5b1b583e/contentTrackerLoader.js, line 18: TypeError: t is undefined
+1701516844078	geckodriver	INFO	Listening on 127.0.0.1:62866
+1701516847166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileiFC8nm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701516847590	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701516848174	Marionette	INFO	Listening on port 62880
+WebDriver BiDi listening on ws://127.0.0.1:62867
+Read port: 62880
+1701516848419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62867/devtools/browser/d48bdfa4-e894-4378-ac55-d7b43d6aa229
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1701517051542	geckodriver	INFO	Listening on 127.0.0.1:63286
+1701517054503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63287" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileJ7FHSg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701517054950	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701517055516	Marionette	INFO	Listening on port 63295
+WebDriver BiDi listening on ws://127.0.0.1:63287
+Read port: 63295
+1701517055808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+DevTools listening on ws://127.0.0.1:63287/devtools/browser/f315ffb2-904c-482e-babd-0a39d9ae13c7
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1701517348316	geckodriver	INFO	Listening on 127.0.0.1:62752
+1701517351403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62753" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileo1QuTi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701517351850	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701517352422	Marionette	INFO	Listening on port 62766
+WebDriver BiDi listening on ws://127.0.0.1:62753
+Read port: 62766
+1701517352659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62753/devtools/browser/481b389b-0122-43c7-8d73-703c543f5b27
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript warning: https://www.amazon.in/, line 2022: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: moz-extension://725ebb36-f393-4453-ac80-cd8c1cd89ec4/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=Men+Watch&crid=3KJJ14I6U4PHS&sprefix=men+watch%2Caps%2C490, line 13915: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701517371265	Marionette	INFO	Stopped listening on port 62766
+JavaScript warning: https://m.media-amazon.com/images/I/41rQMJCpkQL.js, line 1: Script terminated by timeout at:
+e@https://m.media-amazon.com/images/I/41rQMJCpkQL.js:1:11797
+
+Dynamically enable window occlusion 1
+1701517693148	geckodriver	INFO	Listening on 127.0.0.1:63393
+1701517696135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63394" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileHoS6C4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701517696680	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701517697263	Marionette	INFO	Listening on port 63403
+WebDriver BiDi listening on ws://127.0.0.1:63394
+Read port: 63403
+1701517697519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63394/devtools/browser/d08d26f4-fb41-4a1d-879c-81d818c23cbb
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript warning: https://www.amazon.in/, line 2065: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: moz-extension://9bb7d7d8-5907-47fd-9181-9784af7e461c/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+r@moz-extension://9bb7d7d8-5907-47fd-9181-9784af7e461c/contentTrackerLoader.js:18:29713
+
+JavaScript warning: https://www.amazon.in/s?k=Men+Watch&crid=15VNCEDE4SF6H&sprefix=men+watch%2Caps%2C522&ref=nb_sb_noss_1, line 14147: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+1701522796556	geckodriver	INFO	Listening on 127.0.0.1:60413
+1701522799385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60414" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilevDBHFO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701522799981	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701522800551	Marionette	INFO	Listening on port 60422
+Read port: 60422
+WebDriver BiDi listening on ws://127.0.0.1:60414
+1701522800681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60414/devtools/browser/a430a876-9311-49d3-886d-0a1341e4f44f
+JavaScript error: moz-extension://3b787197-0004-406d-8bdd-f944eca367c6/contentTrackerLoader.js, line 18: SecurityError: The operation is insecure.
+JavaScript warning: moz-extension://3b787197-0004-406d-8bdd-f944eca367c6/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+g/<@moz-extension://3b787197-0004-406d-8bdd-f944eca367c6/contentTrackerLoader.js:18:30118
+r@moz-extension://3b787197-0004-406d-8bdd-f944eca367c6/contentTrackerLoader.js:18:29621
+
+JavaScript warning: https://www.amazon.in/, line 2044: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: moz-extension://3b787197-0004-406d-8bdd-f944eca367c6/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: moz-extension://3b787197-0004-406d-8bdd-f944eca367c6/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+g/<@moz-extension://3b787197-0004-406d-8bdd-f944eca367c6/contentTrackerLoader.js:18:30118
+r@moz-extension://3b787197-0004-406d-8bdd-f944eca367c6/contentTrackerLoader.js:18:29621
+
+JavaScript warning: https://www.amazon.in/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=Men+Watch&crid=3MTQT1CS58SEX&sprefix=men+watch%2Caps%2C470, line 14147: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1701522843804	geckodriver	INFO	Listening on 127.0.0.1:60700
+1701522846400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileB9aZoF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701522847418	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701522847975	Marionette	INFO	Listening on port 60709
+WebDriver BiDi listening on ws://127.0.0.1:60701
+Read port: 60709
+1701522848230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60701/devtools/browser/0a6bef76-4815-4207-ae37-4f180a542dfa
+JavaScript error: moz-extension://b1f6c7be-357c-4ec4-86a5-0f8e6e5e282c/contentTrackerLoader.js, line 18: SecurityError: The operation is insecure.
+JavaScript warning: https://www.amazon.in/, line 2044: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: moz-extension://b1f6c7be-357c-4ec4-86a5-0f8e6e5e282c/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: moz-extension://b1f6c7be-357c-4ec4-86a5-0f8e6e5e282c/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+g/<@moz-extension://b1f6c7be-357c-4ec4-86a5-0f8e6e5e282c/contentTrackerLoader.js:18:30118
+r@moz-extension://b1f6c7be-357c-4ec4-86a5-0f8e6e5e282c/contentTrackerLoader.js:18:29621
+
+JavaScript warning: https://www.amazon.in/s?k=Men+Watch&crid=3U0NU27GXEGZC&sprefix=men+watch%2Caps%2C469&ref=nb_sb_noss_1, line 14274: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1701522907836	geckodriver	INFO	Listening on 127.0.0.1:61003
+1701522910798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61004" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofilee2uyGi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701522911429	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701522911989	Marionette	INFO	Listening on port 61015
+Read port: 61015
+WebDriver BiDi listening on ws://127.0.0.1:61004
+1701522912138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61004/devtools/browser/6886532f-3988-4b03-b1d4-1adb1dd6d385
+JavaScript warning: https://www.amazon.in/, line 2056: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: moz-extension://067dc1ac-f0b2-4555-941b-32d66951e09a/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=Men+Watch&crid=2RN6JW44VIHXO&sprefix=men+watch%2Caps%2C291&ref=nb_sb_noss_1, line 13939: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+1701523066287	geckodriver	INFO	Listening on 127.0.0.1:61416
+1701523069268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61417" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofile2OYVMA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701523069886	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701523070404	Marionette	INFO	Listening on port 61429
+Read port: 61429
+WebDriver BiDi listening on ws://127.0.0.1:61417
+1701523070535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61417/devtools/browser/84dafea0-e5d8-4092-983b-9da029ea65a1
+JavaScript warning: https://www.amazon.in/, line 2050: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: moz-extension://aa677ff0-170f-41c9-8f74-e5b3beb15940/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: moz-extension://aa677ff0-170f-41c9-8f74-e5b3beb15940/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+g/<@moz-extension://aa677ff0-170f-41c9-8f74-e5b3beb15940/contentTrackerLoader.js:18:30118
+r@moz-extension://aa677ff0-170f-41c9-8f74-e5b3beb15940/contentTrackerLoader.js:18:29621
+
+JavaScript warning: https://www.amazon.in/s?k=Men+Watch&crid=1TBLE7CNSNKEE&sprefix=men+watch%2Caps%2C301&ref=nb_sb_noss_1, line 14433: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+1701523333658	geckodriver	INFO	Listening on 127.0.0.1:56099
+1701523336719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56100" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileeSJ4Xx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701523337164	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701523337699	Marionette	INFO	Listening on port 56109
+WebDriver BiDi listening on ws://127.0.0.1:56100
+Read port: 56109
+1701523337971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56100/devtools/browser/ddc92702-2c3b-47eb-8675-8bdf2b74a6e3
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript warning: https://www.amazon.in/, line 2062: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: moz-extension://c5073f4f-f162-42fb-b8df-2f4168684464/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: https://www.amazon.in/s?k=Men+Watch&crid=34QFA37GEYIJ7&sprefix=men+watch%2Caps%2C584&ref=nb_sb_noss_1, line 14281: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with rea[GFX1-]:[GFX1-]: CompositorBridgeChild  CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+son=AbnormalShutdown
+receives IPC[GFX1-]: CompositorBr idclose with reason=AbnormalShutdowngeChild receives I
+PC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1701523364601	geckodriver	INFO	Listening on 127.0.0.1:56312
+1701523367351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofiler4D0V7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701523368157	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701523368732	Marionette	INFO	Listening on port 56322
+Read port: 56322
+WebDriver BiDi listening on ws://127.0.0.1:56313
+1701523368851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56313/devtools/browser/530b792a-0536-4cd2-b7f1-317eec8ed3e2
+JavaScript error: moz-extension://00e76ed5-6950-4e05-bcae-cf6633ca8260/contentTrackerLoader.js, line 18: SecurityError: The operation is insecure.
+JavaScript warning: moz-extension://00e76ed5-6950-4e05-bcae-cf6633ca8260/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+g/<@moz-extension://00e76ed5-6950-4e05-bcae-cf6633ca8260/contentTrackerLoader.js:18:30118
+r@moz-extension://00e76ed5-6950-4e05-bcae-cf6633ca8260/contentTrackerLoader.js:18:29621
+
+JavaScript warning: https://www.amazon.in/, line 2050: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: moz-extension://00e76ed5-6950-4e05-bcae-cf6633ca8260/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: moz-extension://00e76ed5-6950-4e05-bcae-cf6633ca8260/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+g/<@moz-extension://00e76ed5-6950-4e05-bcae-cf6633ca8260/contentTrackerLoader.js:18:30118
+r@moz-extension://00e76ed5-6950-4e05-bcae-cf6633ca8260/contentTrackerLoader.js:18:29621
+
+JavaScript warning: https://www.amazon.in/s?k=Men+Watch&crid=3IYLVHZ9TQ6H0&sprefix=men+watch%2Caps%2C320&ref=nb_sb_noss_1, line 13745: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+1701523414430	geckodriver	INFO	Listening on 127.0.0.1:56624
+1701523417520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56625" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rohibhar\\AppData\\Local\\Temp\\rust_mozprofileGPSqeZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701523417945	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701523418426	Marionette	INFO	Listening on port 56634
+WebDriver BiDi listening on ws://127.0.0.1:56625
+Read port: 56634
+1701523418704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56625/devtools/browser/fe0f6bff-e05c-4fd7-92bd-436393a3a97e
+JavaScript error: moz-extension://33e7c728-0782-4ab0-ad07-e05564a8f396/contentTrackerLoader.js, line 18: SecurityError: The operation is insecure.
+JavaScript warning: moz-extension://33e7c728-0782-4ab0-ad07-e05564a8f396/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+g/<@moz-extension://33e7c728-0782-4ab0-ad07-e05564a8f396/contentTrackerLoader.js:18:30118
+r@moz-extension://33e7c728-0782-4ab0-ad07-e05564a8f396/contentTrackerLoader.js:18:29621
+
+JavaScript warning: https://www.amazon.in/, line 2065: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: moz-extension://33e7c728-0782-4ab0-ad07-e05564a8f396/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+JavaScript warning: moz-extension://33e7c728-0782-4ab0-ad07-e05564a8f396/contentTrackerLoader.js, line 18: Script terminated by timeout at:
+g/<@moz-extension://33e7c728-0782-4ab0-ad07-e05564a8f396/contentTrackerLoader.js:18:30118
+r@moz-extension://33e7c728-0782-4ab0-ad07-e05564a8f396/contentTrackerLoader.js:18:29621
+
+JavaScript warning: https://www.amazon.in/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=Men+Watch&crid=2EUOSGZJ5O2H8&sprefix=men+watch%2Caps%2C359, line 14174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
